@@ -1,6 +1,8 @@
 # Henri De Boever
 
-Welcome to my page. I am currently completing a master's program at the IPGP in Paris with a particular focus on remote sensing techniques by satellite. 
+Welcome to my page. I am currently completing a master's program at the IPGP in Paris with a particular focus on remote sensing techniques by satellite.
+
+Go to [about page](about.md)
 
 ## The 2017 total eclipse from Madras, OR
 ![Bailey's beads](images/grains_de_bailey.JPG)
